@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MQqt7CvjbISZOv2ePzUZk/n2oxsBWEOgVpimGwh2lDUP/WiB9NaYX4AIdjRCjti3fBeFivajgBPpxRe3K68I2w==",
+  "success": true,
+  "projectFilePath": "C:\\Data\\Projects\\Email Sending Console App\\Email Sending Console App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SunrajMartha\\.nuget\\packages\\system.net.mail.abstractions\\1.1.21\\system.net.mail.abstractions.1.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

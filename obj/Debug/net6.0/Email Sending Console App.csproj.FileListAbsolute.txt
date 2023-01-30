@@ -1,0 +1,17 @@
+C:\Data\Projects\Email Sending Console App\bin\Debug\net6.0\Email Sending Console App.exe
+C:\Data\Projects\Email Sending Console App\bin\Debug\net6.0\Email Sending Console App.deps.json
+C:\Data\Projects\Email Sending Console App\bin\Debug\net6.0\Email Sending Console App.runtimeconfig.json
+C:\Data\Projects\Email Sending Console App\bin\Debug\net6.0\Email Sending Console App.dll
+C:\Data\Projects\Email Sending Console App\bin\Debug\net6.0\Email Sending Console App.pdb
+C:\Data\Projects\Email Sending Console App\obj\Debug\net6.0\Email Sending Console App.csproj.AssemblyReference.cache
+C:\Data\Projects\Email Sending Console App\obj\Debug\net6.0\Email Sending Console App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Projects\Email Sending Console App\obj\Debug\net6.0\Email Sending Console App.AssemblyInfoInputs.cache
+C:\Data\Projects\Email Sending Console App\obj\Debug\net6.0\Email Sending Console App.AssemblyInfo.cs
+C:\Data\Projects\Email Sending Console App\obj\Debug\net6.0\Email Sending Console App.csproj.CoreCompileInputs.cache
+C:\Data\Projects\Email Sending Console App\obj\Debug\net6.0\Email Sending Console App.dll
+C:\Data\Projects\Email Sending Console App\obj\Debug\net6.0\refint\Email Sending Console App.dll
+C:\Data\Projects\Email Sending Console App\obj\Debug\net6.0\Email Sending Console App.pdb
+C:\Data\Projects\Email Sending Console App\obj\Debug\net6.0\Email Sending Console App.genruntimeconfig.cache
+C:\Data\Projects\Email Sending Console App\obj\Debug\net6.0\ref\Email Sending Console App.dll
+C:\Data\Projects\Email Sending Console App\bin\Debug\net6.0\System.Net.Mail.Abstractions.dll
+C:\Data\Projects\Email Sending Console App\obj\Debug\net6.0\Email Sending Console App.csproj.CopyComplete
