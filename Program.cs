@@ -17,7 +17,7 @@ namespace EmailSender
                 SmtpClient SmtpServer = new SmtpClient("smtp.gmail.com");
 
                 mail.From = new MailAddress("raasoft.developer@gmail.com");
-                mail.To.Add("sunrajshetty17@gmail.com");
+                mail.To.Add("sunraj.martha@raasoft.com");
                 mail.Subject = "Test Email";
                 mail.Body = "This is a test email sent from .NET program.";
 
